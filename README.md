@@ -19,6 +19,9 @@ This project builds a complete end-to-end Business Intelligence and People Analy
    * Implemented discrete color alerting frameworks to highlight extreme behavioral disparities.
    * Embedded interactive cross-filtering, allowing stakeholders to dynamically slice the organizational data by operational variables.
 
+## Executive Interactive Dashboard
+![Executive HR Dashboard](HR%20People%20Analytics%20-%20Employee%20Attrition%20Dashboard.png)
+
 ## Repository Contents
 * `employee_attrition.csv`: Raw, baseline corporate dataset.
 * `HR_Cleaned_Data_For_Tableau.csv`: The finalized dataset generated via feature engineering.
